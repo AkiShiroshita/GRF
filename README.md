@@ -16,6 +16,8 @@ Our study demonstrates that simple machine learning models, based solely on inve
 
 We used the H3 hexagonal hierarchical spatial index at a resolution of 8 as spatiotemporal grids.
 
+We plan to publicly share air pollutant estimates at multiple spatiotemporal resolutions to support research and inform policy decisions. In the meantime, anyone interested in our GRF models is welcome to utilize the developed models provided in this repository.
+
 The prediction process is as follows:
 
 1. Prepare the set of input variables
