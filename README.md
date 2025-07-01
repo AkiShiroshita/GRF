@@ -62,7 +62,6 @@ To generate predictions, load the appropriate GRF model (from our Box folder [he
 
 ```
 library(tidyverse)
-library(lubridate)
 library(grf)
 
 grf <- read_rds("output_reduced/grf_pm25_2020.rds")
