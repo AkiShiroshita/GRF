@@ -55,7 +55,7 @@ Make sure the input variables are prepared in matrix format.
   
 2. Run Predictions Using the GRF Model
 
-To generate predictions, load the appropriate GRF model and input variables, then use the predict() function. Below is an example workflow in R:
+To generate predictions, load the appropriate GRF model (from our Box folder here) and input variables, then use the predict() function. Below is an example workflow in R:
 
 ```
 library(tidyverse)
