@@ -46,9 +46,10 @@ Below is the complete list of variables:
 * nearby_ox_today
 * nearby_ox_avg
 
-<Note>
 "nearby_{air pollutant}": three-day moving averages of the interpolated values
+  
 "nearby_{air pollutant}_today": same-day interpolated values
+
 "nearby_{air pollutant}_avg": three-day moving averages of interpolated values from nearby resolution-3 hexagonal cells within a five-ring buffer
 
 Make sure the input variables are prepared in matrix format.
