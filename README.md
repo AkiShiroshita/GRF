@@ -10,7 +10,7 @@ This repository contains the Generalized Random Forest (GRF) models developed fo
 * Total hydrocarbons (THCs)
 * Photochemical oxidants (Ox)
 
-For more details, refer to our manuscript (currently under review).
+For more details, refer to our manuscript [Nationwide Spatiotemporal Modeling of Air Pollutants in Japan Using Generalized Random Forest Models](https://www.sciencedirect.com/science/article/pii/S2666765725000729).
 
 Our study demonstrates that simple machine learning models, based solely on inverse distance weighted (IDW) interpolation, can achieve predictive performance comparable to more complex approaches. The reduced models uploaded here utilize 21 input variables, which include interpolated concentrations of each pollutant (same-day values, three-day moving averages, and three-day moving averages of values from nearby resolution-3 hexagonal cells within a five-ring buffer).
 
